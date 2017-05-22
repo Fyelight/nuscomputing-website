@@ -53,3 +53,13 @@ paginate = 10
 		youtube = "channel/UCVd-qsSFF328UUqcNxudy0w"
 		gitlab = ""
 		trello = ""
+		
+	[params.Strings]
+		ShowSideBar = ""
+		HideSideBar = ""
+		Categories = ""
+		Archive = ""
+		Tags = ""
+		TagCloud = ""
+		Rss = ""
+		TableOfContents = ""
